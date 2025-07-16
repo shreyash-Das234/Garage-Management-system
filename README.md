@@ -23,7 +23,7 @@ The **Vehicle Management System** is a Python-based project that demonstrates **
    ```bash
    git clone https://github.com/your-username/vehicle-management-system.git
 
-# convert .py yo .exe
+# convert .py to .exe
 - pip install auto-py-to-exe
 - on terminal write auto-py-to-exe
 - select windows and one file to convert in windows execution file
