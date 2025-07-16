@@ -1,5 +1,4 @@
 # Garage-Management-system
-# Vehicle Management System
 
 The **Vehicle Management System** is a Python-based project that demonstrates **Object-Oriented Programming (OOP)** concepts such as **Abstraction, Inheritance, and Polymorphism**. It simulates a real-world garage where different types of vehicles (Car, Bike, Truck) are managed dynamically.
 
